@@ -1,3 +1,5 @@
+"use client"
+
 import { mnemonicGenerate } from "@polkadot/util-crypto";
 import { useState } from "react";
 
